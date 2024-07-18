@@ -1,8 +1,8 @@
-### Devcon Project
-A web application rendering 3D objects and text. Developed during the DEVCON seminar/workshop.
+### DEVCON Project
+A web application rendering moving 3D wireframe objects and text, developed during the DEVCON seminar/workshop.
 
 
-The website is stored in the IPC blockchain.
+The website is deployed on the Internet Computer Protocol (ICP) blockchain.
 
 
 Website: https://3zmqa-ayaaa-aaaap-qhopa-cai.icp0.io/
